@@ -9,3 +9,8 @@ When a teacher is teaching the right things to the students, he or she usually k
 
 Being a rookie doesn’t have to be a bad thing. In the Moon Speech, John F. Kennedy (JFK) said, “We choose to go to the moon in this decade and do the other things not because they are easy, but because they are hard. Because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we're willing to accept. One we are unwilling to postpone.”
 
+Stage 1：Theories First 
+JavaScript：The Definitive Guide
+Chapter 1 - Introduction to JavaScript
+Chapter 2 - Lexical Structure
+Chapter 3- Types, Values, and Variables
