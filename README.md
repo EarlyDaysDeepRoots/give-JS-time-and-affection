@@ -11,6 +11,3 @@ Being a rookie doesn’t have to be a bad thing. In the Moon Speech, John F. Ken
 
 Stage 1：Theories First 
 JavaScript：The Definitive Guide
-Chapter 1 - Introduction to JavaScript
-Chapter 2 - Lexical Structure
-Chapter 3- Types, Values, and Variables
